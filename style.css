@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+}
+
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+#login {
+    background-color: bisque;
+    color: darkolivegreen;
+}
+
+#registre {
+    background-color: blueviolet;
+    color: goldenrod;
+}
+
+.copy{
+    font-size: 15px;
+}
+
+.lista-footer{
+        list-style: none;
+        display: flex;
+        justify-content: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+li {
+    padding: 5px;
+}
